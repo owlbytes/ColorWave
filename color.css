@@ -128,117 +128,186 @@ body {
 
 .thirteen {
   width: 2%;
-  background-color: #000000;
+  background-color: #96FF96;
   height: 100%;
   float: left;
 }
 .thirteen:hover{
-  background-color: #000000;
+  background-color: #FF96FF;
 }
 
 .fourteen {
   width: 2%;
-  background-color: #000000;
+  background-color: #96FFA7;
   height: 100%;
   float: left;
 }
 .fourteen:hover{
-  background-color: #000000;
+  background-color: #FF96EE;
 }
 
 
 .fifteen {
   width: 2%;
-  background-color: #000000;
+  background-color: #96FFB9;
   height: 100%;
   float: left;
 }
 .fifteen:hover{
-  background-color: #000000;
+  background-color: #FF96DC;
 }
 
 
 .sixteen {
   width: 2%;
-  background-color: #000000;
+  background-color: #96FFCB;
   height: 100%;
   float: left;
 }
 .sixteen:hover{
-  background-color: #000000;
+  background-color: #FF96CA;
 }
 
 .seventeen {
   width: 2%;
-  background-color: #000000;
+  background-color: #96FFDC;
   height: 100%;
   float: left;
 }
 .seventeen:hover{
-  background-color: #000000;
+  background-color: #FF96B9;
 }
 
 .eighteen {
   width: 2%;
-  background-color: #000000;
+  background-color: #96FFEE;
   height: 100%;
   float: left;
 }
 .eighteen:hover{
-  background-color: #000000;
+  background-color: #FF96A7;
 }
 
 
 .nineteen {
   width: 2%;
-  background-color: #000000;
+  background-color: #96FFFF;
   height: 100%;
   float: left;
 }
 .nineteen:hover{
-  background-color: #000000;
+  background-color: #FF9696;
 }
 
 
 .twenty {
   width: 2%;
-  background-color: #000000;
+  background-color: #96EEFF;
   height: 100%;
   float: left;
 }
 .twenty:hover{
-  background-color: #000000;
+  background-color: #FFA796;
 }
 
 
 .twentyone {
   width: 2%;
-  background-color: #000000;
+  background-color: #96DCFF;
   height: 100%;
   float: left;
 }
 .twentyone:hover{
-  background-color: #000000;
+  background-color: #FFB996;
 }
 
 
 .twentytwo {
   width: 2%;
-  background-color: #000000;
+  background-color: #96CBFF;
   height: 100%;
   float: left;
 }
 .twentytwo:hover{
-  background-color: #000000;
+  background-color: #FFCA96;
 }
-
 
 .twentythree {
   width: 2%;
-  background-color: #000000;
+  background-color: #96B9FF;
   height: 100%;
   float: left;
 }
 .twentythree:hover{
-  background-color: #000000;
+  background-color: #FFDC96;
+}
+
+.twentyfour {
+  width: 2%;
+  background-color: #96A7FF;
+  height: 100%;
+  float: left;
+}
+.twentyfour:hover{
+  background-color: #FFEE96;
+}
+
+.twentyfive {
+  width: 2%;
+  background-color: #9696FF;
+  height: 100%;
+  float: left;
+}
+.twentyfive:hover{
+  background-color: #FFFF96;
+}
+
+.twentysix {
+  width: 2%;
+  background-color: #A896FF;
+  height: 100%;
+  float: left;
+}
+.twentysix:hover{
+  background-color: #EDFF96;
+}
+
+.twentyseven {
+  width: 2%;
+  background-color: #B996FF;
+  height: 100%;
+  float: left;
+}
+.twentyseven:hover{
+  background-color: #DCFF96;
+}
+
+.twentyeight {
+  width: 2%;
+  background-color: #CB96FF;
+  height: 100%;
+  float: left;
+}
+.twentyeight:hover{
+  background-color: #CAFF96;
+}
+
+.twentynine {
+  width: 2%;
+  background-color: #DC96FF;
+  height: 100%;
+  float: left;
+}
+.twentynine:hover{
+  background-color: #B9FF96;
+}
+
+.thirty {
+  width: 2%;
+  background-color: #ED96FF;
+  height: 100%;
+  float: left;
+}
+.thirty:hover{
+  background-color: #A8FF96;
 }
