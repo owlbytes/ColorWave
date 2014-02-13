@@ -1,27 +1,244 @@
 body {
   background-color: white;
+  margin: 0;
 }
 
+/*1-10*/
 .one {
   width: 2%;
   height: 100%;
   background-color: #FF9696;
-/*  opposite: #96FFFF;*/
   float: left;
+}
+.one:hover {
+  background-color:#96FFFF;
 }
 
 .two {
   width: 2%;
   height: 100%;
   background-color: #FFA896;
-/*96EDFF*/
   float:left;
+}
+.two:hover{
+  background-color: #96EDFF;
 }
 
 .three {
   width: 2%;
   background-color: #FFB996;
- /* 96DCFF*/
   height: 100%;
   float: left;
+}
+.three:hover{
+  background-color: #96DCFF;
+}
+
+.four {
+  width: 2%;
+  background-color: #FFCB96;
+  height: 100%;
+  float: left;
+}
+.four:hover{
+  background-color: #96CAFF;
+}
+
+.five {
+  width: 2%;
+  background-color: #FFDC96;
+  height: 100%;
+  float: left;
+}
+.five:hover{
+  background-color: #96B9FF;
+}
+
+.six {
+  width: 2%;
+  background-color: #FFEE96;
+  height: 100%;
+  float: left;
+}
+.six:hover{
+  background-color: #96A7FF;
+}
+
+.seven {
+  width: 2%;
+  background-color: #FFFF96;
+  height: 100%;
+  float: left;
+}
+.seven:hover{
+  background-color: #9696FF;
+}
+
+.eight {
+  width: 2%;
+  background-color: #EEFF96;
+  height: 100%;
+  float: left;
+}
+.eight:hover{
+  background-color: #A796FF;
+}
+
+.nine {
+  width: 2%;
+  background-color: #DCFF96;
+  height: 100%;
+  float: left;
+}
+.nine:hover{
+  background-color: #B996FF;
+}
+
+.ten {
+  width: 2%;
+  background-color: #CBFF96;
+  height: 100%;
+  float: left;
+}
+.ten:hover{
+  background-color: #CA96FF;
+}
+
+
+/*11-20*/
+.eleven {
+  width: 2%;
+  background-color: #B9FF96;
+  height: 100%;
+  float: left;
+}
+.eleven:hover{
+  background-color: #DC96FF;
+}
+
+.twelve {
+  width: 2%;
+  background-color: #A8FF96;
+  height: 100%;
+  float: left;
+}
+.twelve:hover{
+  background-color: #ED96FF;
+}
+
+.thirteen {
+  width: 2%;
+  background-color: #000000;
+  height: 100%;
+  float: left;
+}
+.thirteen:hover{
+  background-color: #000000;
+}
+
+.fourteen {
+  width: 2%;
+  background-color: #000000;
+  height: 100%;
+  float: left;
+}
+.fourteen:hover{
+  background-color: #000000;
+}
+
+
+.fifteen {
+  width: 2%;
+  background-color: #000000;
+  height: 100%;
+  float: left;
+}
+.fifteen:hover{
+  background-color: #000000;
+}
+
+
+.sixteen {
+  width: 2%;
+  background-color: #000000;
+  height: 100%;
+  float: left;
+}
+.sixteen:hover{
+  background-color: #000000;
+}
+
+.seventeen {
+  width: 2%;
+  background-color: #000000;
+  height: 100%;
+  float: left;
+}
+.seventeen:hover{
+  background-color: #000000;
+}
+
+.eighteen {
+  width: 2%;
+  background-color: #000000;
+  height: 100%;
+  float: left;
+}
+.eighteen:hover{
+  background-color: #000000;
+}
+
+
+.nineteen {
+  width: 2%;
+  background-color: #000000;
+  height: 100%;
+  float: left;
+}
+.nineteen:hover{
+  background-color: #000000;
+}
+
+
+.twenty {
+  width: 2%;
+  background-color: #000000;
+  height: 100%;
+  float: left;
+}
+.twenty:hover{
+  background-color: #000000;
+}
+
+
+.twentyone {
+  width: 2%;
+  background-color: #000000;
+  height: 100%;
+  float: left;
+}
+.twentyone:hover{
+  background-color: #000000;
+}
+
+
+.twentytwo {
+  width: 2%;
+  background-color: #000000;
+  height: 100%;
+  float: left;
+}
+.twentytwo:hover{
+  background-color: #000000;
+}
+
+
+.twentythree {
+  width: 2%;
+  background-color: #000000;
+  height: 100%;
+  float: left;
+}
+.twentythree:hover{
+  background-color: #000000;
 }
