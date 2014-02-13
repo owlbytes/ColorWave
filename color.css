@@ -1,0 +1,45 @@
+body {
+  background-color: blue;
+}
+
+.one {
+  width: 16%;
+  height: 100%;
+  background-color: red;
+  float: left;
+}
+
+.two {
+  width: 16%;
+  height: 100%;
+  background-color: orange;
+  float:left;
+}
+
+.three {
+  width: 16%;
+  background-color: yellow;
+  height: 100%;
+  float: left;
+}
+
+.four {
+  width: 16%;
+  background-color: green;
+  height: 100%;
+  float: left;
+}
+
+.five {
+  width: 16%;
+  background-color: blue;
+  height: 100%;
+  float: left;
+}
+
+.six {
+  width: 16%;
+  height: 100%;
+  background-color: purple;
+  float: left;
+}
