@@ -1,45 +1,27 @@
 body {
-  background-color: blue;
+  background-color: white;
 }
 
 .one {
-  width: 16%;
+  width: 2%;
   height: 100%;
-  background-color: red;
+  background-color: #FF9696;
+/*  opposite: #96FFFF;*/
   float: left;
 }
 
 .two {
-  width: 16%;
+  width: 2%;
   height: 100%;
-  background-color: orange;
+  background-color: #FFA896;
+/*96EDFF*/
   float:left;
 }
 
 .three {
-  width: 16%;
-  background-color: yellow;
+  width: 2%;
+  background-color: #FFB996;
+ /* 96DCFF*/
   height: 100%;
-  float: left;
-}
-
-.four {
-  width: 16%;
-  background-color: green;
-  height: 100%;
-  float: left;
-}
-
-.five {
-  width: 16%;
-  background-color: blue;
-  height: 100%;
-  float: left;
-}
-
-.six {
-  width: 16%;
-  height: 100%;
-  background-color: purple;
   float: left;
 }
