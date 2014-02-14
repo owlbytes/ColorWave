@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: #ffffff;
   margin: 0;
 }
 
@@ -11,8 +11,14 @@ body {
   float: left;
 }
 .one:hover {
-  background-color:#96FFFF;
+  opacity:0.8;
 }
+
+.one:active {
+  background-color:#96FFFF;
+  opacity:1;
+}
+
 
 .two {
   width: 2.702%;
@@ -21,8 +27,14 @@ body {
   float:left;
 }
 .two:hover{
+  opacity:0.8;
+}
+
+.two:active {
+  opacity: 1;
   background-color: #96EDFF;
 }
+
 
 .three {
   width: 2.702%;
@@ -31,8 +43,14 @@ body {
   float: left;
 }
 .three:hover{
+  opacity: 0.8;
+}
+
+.three:active{
+  opacity: 1;
   background-color: #96DCFF;
 }
+
 
 .four {
   width: 2.702%;
@@ -41,8 +59,14 @@ body {
   float: left;
 }
 .four:hover{
+  opacity: 0.8;
+}
+
+.four:active{
+  opacity: 1;
   background-color: #96CAFF;
 }
+
 
 .five {
   width: 2.702%;
@@ -51,8 +75,15 @@ body {
   float: left;
 }
 .five:hover{
+  opacity: 0.8;
+}
+
+.five:active{
+  opacity: 1;
   background-color: #96B9FF;
 }
+
+
 
 .six {
   width: 2.702%;
@@ -61,8 +92,14 @@ body {
   float: left;
 }
 .six:hover{
+  opacity: 0.8;
+}
+
+.six:active{
+  opacity: 1;
   background-color: #96A7FF;
 }
+
 
 .seven {
   width: 2.702%;
@@ -71,6 +108,11 @@ body {
   float: left;
 }
 .seven:hover{
+  opacity: 0.8;
+}
+
+.seven:active{
+  opacity: 1;
   background-color: #9696FF;
 }
 
@@ -80,7 +122,13 @@ body {
   height: 100%;
   float: left;
 }
+
 .eight:hover{
+  opacity: 0.8;
+}
+
+.eight:active{
+  opacity: 1;
   background-color: #A796FF;
 }
 
@@ -91,6 +139,10 @@ body {
   float: left;
 }
 .nine:hover{
+  opacity: 0.8;
+}
+.nine:active{
+  opacity: 1;
   background-color: #B996FF;
 }
 
@@ -101,6 +153,10 @@ body {
   float: left;
 }
 .ten:hover{
+  opacity: 0.8;
+}
+.ten:active{
+  opacity: 1;
   background-color: #CA96FF;
 }
 
@@ -113,6 +169,10 @@ body {
   float: left;
 }
 .eleven:hover{
+  opacity: 0.8;
+}
+.eleven:active{
+  opacity: 1;
   background-color: #DC96FF;
 }
 
@@ -123,6 +183,10 @@ body {
   float: left;
 }
 .twelve:hover{
+  opacity: 0.8;
+}
+.twelve:active{
+  opacity: 1;
   background-color: #ED96FF;
 }
 
@@ -133,6 +197,10 @@ body {
   float: left;
 }
 .thirteen:hover{
+  opacity: 0.8;
+}
+.thirteen:active{
+  opacity: 1;
   background-color: #FF96FF;
 }
 
@@ -143,6 +211,10 @@ body {
   float: left;
 }
 .fourteen:hover{
+  opacity: 0.8;
+}
+.fourteen:active{
+  opacity: 1;
   background-color: #FF96EE;
 }
 
@@ -153,7 +225,11 @@ body {
   float: left;
 }
 .fifteen:hover{
-  background-color: #FF96DC;
+  opacity: 0.8;
+}
+.fifteen:active{
+  opacity: 1;
+  background-color: #FF96DC;  
 }
 
 .sixteen {
@@ -163,7 +239,11 @@ body {
   float: left;
 }
 .sixteen:hover{
-  background-color: #FF96CA;
+  opacity: 0.8;
+}
+.sixteen:active{
+  opacity: 1;
+  background-color: #FF96CA;  
 }
 
 .seventeen {
@@ -173,6 +253,10 @@ body {
   float: left;
 }
 .seventeen:hover{
+  opacity: 0.8;
+}
+.seventeen:active{
+  opacity: 1;
   background-color: #FF96B9;
 }
 
@@ -183,6 +267,10 @@ body {
   float: left;
 }
 .eighteen:hover{
+  opacity: 0.8;
+}
+.eighteen:active{
+  opacity: 1;
   background-color: #FF96A7;
 }
 
@@ -193,6 +281,10 @@ body {
   float: left;
 }
 .nineteen:hover{
+  opacity: 0.8;
+}
+.nineteen:active{
+  opacity: 1;
   background-color: #FF9696;
 }
 
@@ -203,6 +295,10 @@ body {
   float: left;
 }
 .twenty:hover{
+  opacity: 0.8;
+}
+.twenty:active{
+  opacity: 1;
   background-color: #FFA796;
 }
 
@@ -213,6 +309,10 @@ body {
   float: left;
 }
 .twentyone:hover{
+  opacity: 0.8;
+}
+.twentyone:active{
+  opacity: 1;
   background-color: #FFB996;
 }
 
@@ -223,6 +323,10 @@ body {
   float: left;
 }
 .twentytwo:hover{
+  opacity: 0.8;
+}
+.twentytwo:active{
+  opacity: 1;
   background-color: #FFCA96;
 }
 
@@ -233,6 +337,10 @@ body {
   float: left;
 }
 .twentythree:hover{
+  opacity: 0.8;
+}
+.twentythree:active{
+  opacity: 1;
   background-color: #FFDC96;
 }
 
@@ -243,6 +351,10 @@ body {
   float: left;
 }
 .twentyfour:hover{
+  opacity: 0.8;
+}
+.twentyfour:active{
+  opacity: 1;
   background-color: #FFEE96;
 }
 
@@ -253,6 +365,10 @@ body {
   float: left;
 }
 .twentyfive:hover{
+  opacity: 0.8;
+}
+.twentyfive:active{
+  opacity: 1;
   background-color: #FFFF96;
 }
 
@@ -263,6 +379,10 @@ body {
   float: left;
 }
 .twentysix:hover{
+  opacity: 0.8;
+}
+.twentysix:active{
+  opacity: 1;
   background-color: #EDFF96;
 }
 
@@ -273,6 +393,10 @@ body {
   float: left;
 }
 .twentyseven:hover{
+  opacity: 0.8;
+}
+.twentyseven:active{
+  opacity: 1;
   background-color: #DCFF96;
 }
 
@@ -283,6 +407,10 @@ body {
   float: left;
 }
 .twentyeight:hover{
+  opacity: 0.8;
+}
+.twentyeight:active{
+  opacity: 1;
   background-color: #CAFF96;
 }
 
@@ -293,6 +421,10 @@ body {
   float: left;
 }
 .twentynine:hover{
+  opacity: 0.8;
+}
+.twentynine:active{
+  opacity: 1;
   background-color: #B9FF96;
 }
 
@@ -303,6 +435,10 @@ body {
   float: left;
 }
 .thirty:hover{
+  opacity: 0.8;
+}
+.thirty:active{
+  opacity: 1;
   background-color: #A8FF96;
 }
 
@@ -313,6 +449,10 @@ body {
   float: left;
 }
 .thirtyone:hover{
+  opacity: 0.8;
+}
+.thirtyone:active{
+  opacity: 1;
   background-color: #96FF96;
 }
 
@@ -323,6 +463,10 @@ body {
   float: left;
 }
 .thirtytwo:hover{
+  opacity: 0.8;
+}
+.thirtytwo:active{
+  opacity: 1;
   background-color: #96FFA8;
 }
 
@@ -333,6 +477,10 @@ body {
   float: left;
 }
 .thirtythree:hover{
+  opacity: 0.8;
+}
+.thirtythree:active{
+  opacity: 1;
   background-color: #96FFB9;
 }
 
@@ -343,6 +491,10 @@ body {
   float: left;
 }
 .thirtyfour:hover{
+  opacity: 0.8;
+}
+.thirtyfour:active{
+  opacity: 1;
   background-color: #96FFCA;
 }
 
@@ -353,6 +505,10 @@ body {
   float: left;
 }
 .thirtyfive:hover{
+  opacity: 0.8;
+}
+.thirtyfive:active{
+  opacity: 1;
   background-color: #96FFDC;
 }
 
@@ -363,6 +519,10 @@ body {
   float: left;
 }
 .thirtysix:hover{
+  opacity: 0.8;
+}
+.thirtysix:active{
+  opacity: 1;
   background-color: #96FFED;
 }
 
@@ -373,6 +533,10 @@ body {
   float: left;
 }
 .thirtyseven:hover{
+  opacity: 0.8;
+}
+.thirtyseven:active{
+  opacity: 1;
   background-color: #96FFFD;
 }
 

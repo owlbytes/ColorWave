@@ -1,8 +1,34 @@
 ColorWave was created by Neha Shah using HTML and CSS. 
 
-
 *Contact Neha*
 
-Github: github.com/owlbytes
+- Github: github.com/owlbytes
+- LinkedIn: uk.linkedin.com/in/nehashah1/
 
-LinkedIn: uk.linkedin.com/in/nehashah1/
+
+*To replicate ColorWave*
+
+1. Get your inital color via HSB values. My inital values were:
+- H: 0
+- S: 41
+- B: 100
+
+2. Use colorpicker.com to get the corresponding hexadecimal value of the color as well as the diametric color.
+
+3. increase either the H value and use the new color for the next div. For a noticeable change in color increase the value by at least 10. 
+
+4. CSS example:
+.one {
+  width: 2.702%;
+  height: 100%;
+  background-color: #FF9696;
+  float: left;
+}
+.one:hover {
+  opacity:0.8;
+}
+
+.one:active {
+  background-color:#96FFFF;
+  opacity:1;
+}
